@@ -5,20 +5,20 @@
 | Description                | Price (Bt) |
 |:---------------------------|-----:|
 | Apple, Banana, Orange (ea) |  10  |
-| Banana Cake                |  15  |
-| Cheap Sandwich             |  20  |
-| Good Sandwich              |  35  |
-| Ramen Noodles              |  25  |
+| Banana Cake                |  20  |
+| Cheap Sandwich             |  25  |
+| Good Sandwich              |  40  |
+| Ramen Noodles              |  22  |
 
 ## Beverages
 
 | Description                | Price (Bt) |
 |:---------------------------|-----:|
-| Hot Coffee                 |  25  |
-| Ice Coffee                 |  35  |
+| Drinking water             |  10  |
+| Oolong tea                 |  20  |
 | Green Tea                  |  22  |
-| Oolong Tea                 |  20  |
-| Drinking Water             |  10  |
+| Hot coffee                 |  25  |
+| Ice coffee                 |  35  |
 
 ---
 
